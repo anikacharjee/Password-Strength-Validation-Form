@@ -56,7 +56,8 @@ This project is open-source and free to use.
 
 ## Screenshots
 
-<img width="542" height="792" alt="image" src="https://github.com/user-attachments/assets/b5cc2659-8a3c-444e-b272-63a55ead9c45" />
+<img width="538" height="791" alt="image" src="https://github.com/user-attachments/assets/69fb8d33-5dcc-4710-85d0-bedde8c32194" />
+
 
 *Example of the form showing live validation.*
 
